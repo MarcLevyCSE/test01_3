@@ -27,3 +27,14 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+div{
+    border: 1px solid red;
+}
+#main{
+    margin-top: 20px;
+    padding: 0 40 0 40;
+}
+#header{
+    margin-bottom: 100px;
+}
