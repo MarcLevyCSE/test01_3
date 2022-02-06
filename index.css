@@ -4,19 +4,10 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
-#top {
-    text-align: left;
-
-}
-
-#refer {
-    text-align: center;
-    text-decoration: underline;
-    color: indigo;
-}
 #header{
     color:deeppink;
     text-transform: uppercase;
+    margin-bottom: 100px;
 }
 table{
     text-align: center;
@@ -34,7 +25,5 @@ div{
 #main{
     margin-top: 20px;
     padding: 0 40 0 40;
-}
-#header{
-    margin-bottom: 100px;
+    margin-bottom: 50px ;
 }
